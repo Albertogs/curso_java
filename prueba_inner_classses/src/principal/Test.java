@@ -25,6 +25,7 @@ public class Test {
 		c1 = c1+3;
 		Mini mi1 = new Mini();
 		mi1.metodo1();
+		System.out.println("dfdgdg");
 	}
 	
 	
